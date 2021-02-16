@@ -18,7 +18,7 @@
 * Ulauncher Preferences
 * Extensions
 * Add Extension
-* Put into input text: https://github.com/seon22break/Bitcoin_Exchange_Extension.git
+* Put into input text: https://github.com/seon22break/Bitcoin-Exchange.git
 * Enjoy
 <br>
 
