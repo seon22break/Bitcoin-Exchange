@@ -1,0 +1,33 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Bitcoin Status",
+  "description": "Allows the exchange of euros to bitcoins and checks the current status of bitcoins",
+  "developer_name": "Seon22Break",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "btc_status",
+      "type": "keyword",
+      "name": "Bitcoin Status",
+      "description": "Status bitcoin in eurs and dollars",
+      "default_value": "sbtc"
+    },
+    {
+      "id": "dollars_to_btc",
+      "type": "keyword",
+      "name": "$ to BTC",
+      "description": "Exchange $ to Bitcoins",
+      "default_value": "usd"
+    },
+    {
+        "id": "euros_to_btc",
+        "type": "keyword",
+        "name": "€ to BTC",
+        "description": "Exchange € to Bitcoins",
+        "default_value": "eur"
+      }
+  ]
+}
