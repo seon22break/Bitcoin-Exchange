@@ -22,6 +22,7 @@
 * Enjoy
 <br>
 <a href="functions"></a>
+
 ## 😏 Functions 
 
 * Displays the current status of Bitcoin in $ and €.
