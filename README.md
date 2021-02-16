@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="#-installation">Instalation</a>&nbsp;&nbsp;•&nbsp;
-  <a href="shell">Functions</a>
+  <a href="#-functions">Functions</a>
 </p>
 
 <a href="installation"></a>
@@ -21,7 +21,7 @@
 * Put into input text: https://github.com/seon22break/Bitcoin-Exchange.git
 * Enjoy
 <br>
-
+<a href="functions"></a>
 ## 😏 Functions 
 
 * Displays the current status of Bitcoin in $ and €.
