@@ -21,8 +21,6 @@
 * Put into input text: https://github.com/seon22break/Bitcoin_Exchange_Extension.git
 * Enjoy
 <br>
-<br>
-<br>
 
 ## 😏 Functions 
 
