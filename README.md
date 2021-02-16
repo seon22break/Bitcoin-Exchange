@@ -27,3 +27,8 @@
 * Displays the current status of Bitcoin in $ and €.
 * Convert Euros to Bitcoins
 * Convert Dollars to Bitcoins
+
+More information: 
+* https://ext.ulauncher.io/about
+* https://ext.ulauncher.io/-/github-seon22break-bitcoin-exchange
+        
