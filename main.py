@@ -1,5 +1,4 @@
 import requests
-import json
 
 from ulauncher.api.client.Extension import Extension
 from ulauncher.api.client.EventListener import EventListener
