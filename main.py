@@ -22,8 +22,9 @@ class KeywordQueryEventListener(EventListener):
     def on_event(self, event, extension):
         items = []
 
-        r = requests.get("https://api.coindesk.com/v1/bpi/currentprice.json")
-        data_string = json.loads(r.content)
+        base_url = "https://api.coindesk.com/v1/bpi/currentprice.json"
+        response = requests.request("GET", base_url)
+        data_string = response.json()
 
         if event.get_keyword() == "sbtc":
 
